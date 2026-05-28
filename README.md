@@ -1,3 +1,5 @@
+##
+
 > No, you are wrong.
 > We will honor our sleepless nights, rebuild our systems at any cost, and crush those who thought they could DDoS us.  
 > We are programmers. We are without end.
@@ -38,6 +40,6 @@ We don’t stop. We deploy again.
 
 ---
 
-## Signature
+##
 
 > We are without end.
