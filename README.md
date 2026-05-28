@@ -45,6 +45,6 @@
 
 ##
 
-> We are without end.
+> - We are without end.
 
 ---
