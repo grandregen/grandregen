@@ -37,9 +37,9 @@
 
 ## Status
 
-> 🟢 Online  
-> ⚙️ Building  
-> 🔁 Iterating endlessly
+> - 🟢 Online  
+> - ⚙️ Building  
+> - 🔁 Iterating endlessly
 
 ---
 
