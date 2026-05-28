@@ -8,38 +8,38 @@
 
 ## grandregen
 
-- 💻 Programmer / Builder / Problem solver
-- 🔧 Focused on systems, code, and scaling ideas
-- 🧪 Always iterating, always improving
-- 🌐 Offline is temporary
+> 💻 Programmer / Builder / Problem solver
+> 🔧 Focused on systems, code, and scaling ideas
+> 🧪 Always iterating, always improving
+> 🌐 Offline is temporary
 
 ---
 
 ## Philosophy
 
-We break, We fix.
+> We break, We fix.
 
-We don’t break. We debug.  
+> We don’t break. We debug.  
 
-We don’t fail. We iterate.  
+> We don’t fail. We iterate.  
 
-We don’t stop. We deploy again.
+> We don’t stop. We deploy again.
 
 ---
 
 ## Tech Stack
 
-- Languages: Python / JavaScript / Java / C
-- Tools: Git, Linux, Docker
-- Focus: Backend / Frontend / Systems / Automation
+> Languages: Python / JavaScript / Java / C
+> Tools: Git, Linux, Docker
+> Focus: Backend / Frontend / Systems / Automation
 
 ---
 
 ## Status
 
-🟢 Online  
-⚙️ Building  
-🔁 Iterating endlessly
+> 🟢 Online  
+> ⚙️ Building  
+> 🔁 Iterating endlessly
 
 ---
 
