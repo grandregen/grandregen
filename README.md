@@ -29,9 +29,9 @@
 
 ## Tech Stack
 
-> Languages: Python / JavaScript / Java / C
-> Tools: Git, Linux, Docker
-> Focus: Backend / Frontend / Systems / Automation
+> - Languages: Python / JavaScript / Java / C
+> - Tools: Git, Linux, Docker
+> - Focus: Backend / Frontend / Systems / Automation
 
 ---
 
