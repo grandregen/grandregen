@@ -8,10 +8,10 @@
 
 ## grandregen
 
-> 💻 Programmer / Builder / Problem solver
-> 🔧 Focused on systems, code, and scaling ideas
-> 🧪 Always iterating, always improving
-> 🌐 Offline is temporary
+> - 💻 Programmer / Builder / Problem solver
+> - 🔧 Focused on systems, code, and scaling ideas
+> - 🧪 Always iterating, always improving
+> - 🌐 Offline is temporary
 
 ---
 
