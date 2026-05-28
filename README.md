@@ -18,8 +18,11 @@
 ## Philosophy
 
 We break, We fix.
+
 We don’t break. We debug.  
+
 We don’t fail. We iterate.  
+
 We don’t stop. We deploy again.
 
 ---
@@ -43,3 +46,5 @@ We don’t stop. We deploy again.
 ##
 
 > We are without end.
+
+---
